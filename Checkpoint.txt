@@ -1,0 +1,20 @@
+Manually create and add a java file: 
+https://github.com/christopherhaase/CheckpointM4/tree/main
+
+Spoon-Knife fork: 
+https://github.com/christopherhaase/Spoon-Knife
+
+Upload intellij-project:
+https://github.com/christopherhaase/Chaase_CheckpointGit
+
+
+
+(Svaret på frågora stog med i canvas, men jag hade tagit dom ändå) ;)
+Question 1:
+git log
+
+Question 2:
+git status
+
+Question 3:
+git init
